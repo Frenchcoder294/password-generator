@@ -1,6 +1,7 @@
 # Password Generator
 
-![password generator](https://github.com/farid-malekpour/password-generator/assets/130099331/b3f60a58-0d91-45bb-8620-62fe4dfbc7fe)
+![password_generator](https://github.com/farid-malekpour/password-generator/assets/130099331/723a2b5d-3caf-4b7e-ae5c-f0c054a9eeb0)
+
 
 
 #### Video Demo: (https://youtu.be/MbnOJOEfQKc)
